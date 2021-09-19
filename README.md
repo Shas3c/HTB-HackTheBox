@@ -1,10 +1,10 @@
-# htb
+# HTB - HackTheBox
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This directory contains walkthrough of htb machine to practice pentesting skills.
+- This directory contains walkthrough of htb machine to practice pentesting skills.
 
 
-I tried to give simple explanation about how to compromise the machine 
+- I tried to give simple explanation about how to compromise the machine 
 
 
 I highly recommend first try out yourself to solve this machine and then you can take hints from here.
